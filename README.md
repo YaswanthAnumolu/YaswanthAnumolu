@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 # Yaswanth Anumolu
 
 ## Data Engineer | Systems Builder
